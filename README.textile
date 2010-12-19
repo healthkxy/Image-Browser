@@ -1,0 +1,13 @@
+h1=. XANImageBrowser
+
+h2. Introduction
+
+p. Photos.app like image browser.
+
+h2. Requirements
+
+p. iOS 4.0+
+
+h2. How to use it in your project
+
+p. Open the project, drag all the files inside Classes group except XANAppDelegate.h(m). Take a look at XANAppDelegate.m to learn how to use.
